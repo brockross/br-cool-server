@@ -1,0 +1,19 @@
+{
+  "name": "br-cool-server",
+  "version": "0.1.0",
+  "description": "node server for brockross.cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockross/br-cool-server.git"
+  },
+  "author": "Brock Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockross/br-cool-server/issues"
+  },
+  "homepage": "https://github.com/brockross/br-cool-server#readme"
+}
