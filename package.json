@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brockross/br-cool-server/issues"
   },
-  "homepage": "https://github.com/brockross/br-cool-server#readme"
+  "homepage": "https://github.com/brockross/br-cool-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
